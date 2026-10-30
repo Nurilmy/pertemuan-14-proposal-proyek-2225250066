@@ -1,0 +1,12 @@
+
+Andi,90
+Budi,80
+Citra,75
+Dina,65
+Eko,50
+Fajar,40
+Gita,95
+Hani,70
+Indra,85
+Joko,60
+
