@@ -103,12 +103,9 @@ Pengujian meliputi data normal, nilai batas, data tidak valid, file tidak ditemu
 
 ## 10. Pengembang
 
-Nama Tim: [Nama Tim]
-
-Anggota:
-1. [Nama Anggota 1]
-2. [Nama Anggota 2]
-3. [Nama Anggota 3]
+Nama : Nuril Ilmy
+NIM  : 2225250066
+Kelas: 3E
 
 ## 11. Penutup
 
